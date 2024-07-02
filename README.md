@@ -5,14 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash97184&label=Profile%20views&color=0e75b6&style=flat" alt="akash97184" /> </p>
 
-- 🔭 I’m currently working on **Crypto Tracker**
-
-- 🌱 I’m currently learning **Node.js, MongoDB, Express.js**
-
-- 💬 Ask me about **html, css, js, react, tailwind css, git,c++**
-
-- 📫 How to reach me **aakash92056@gmail.com**
-
 - 📄 Know about my experiences ([https://drive.google.com/file/d/1V-1k4yi0NW-dz7GbaIa3yyJd_L6Tsl1O/view?usp=share_link](https://drive.google.com/file/d/1iKQnHCNaKYZd-NXj5puq157GEL4_UJAV/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
